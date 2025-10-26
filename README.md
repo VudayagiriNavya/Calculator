@@ -23,7 +23,16 @@ It is designed to be *lightweight, responsive, and easy to use*, making it ideal
 
 ## 📂 Project Structure
 
-Web-Calculator/ │ ├── index.html   → HTML structure of the calculator ├── style.css    → Styling and layout ├── script.js    → JavaScript logic and functionality └── README.md    → Project documentation
+Calculator/ 
+│ 
+├── index.html   
+→ HTML structure of the calculator 
+  ├── style.css    
+→ Styling and layout 
+  ├── script.js    
+→ JavaScript logic and functionality 
+  └── README.md   
+→ Project documentation
 
 ---
 
@@ -31,18 +40,6 @@ Web-Calculator/ │ ├── index.html   → HTML structure of the calculator 
 
 bash
 git clone https://github.com/VudayagiriNavya/Calculator.git
-
-
----
-
-🌐 Live Demo
-
-Click here to see Live Demo
-
-> Click the link above to try the calculator directly in your browser.
-
-
-
 
 ---
 
@@ -58,41 +55,18 @@ Click here to see Live Demo
 
 
 
+---
+
+## 🌐 Live Demo
+
+[Click here to see Live Demo](https://NavyaVudayagiri.github.io/Web-Calculator/)
 
 ---
 
-🌟 Future Improvements
+## 🚀 Author
 
-Add scientific functions (square root, power, trigonometry)
-
-Dark mode
-
-Keyboard input support
-
-Mobile-friendly layout
-
-
+*Navya Vudayagiri*  
+- GitHub: [Navya's GitHub Profile](https://github.com/NavyaVudayagiri)
 
 ---
 
-🚀 Author
-
-Navya Vudayagiri
-
-Passionate about coding and front-end development
-
-GitHub: VudayagiriNavya
-
-
----
-
-
-
-
-
-
----
-
-If you want, I can also show you how to include a real screenshot of your calculator so your README looks visually appealing and professional.
-
-Do you want me to do that next?
