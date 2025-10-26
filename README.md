@@ -26,13 +26,16 @@ It is designed to be *lightweight, responsive, and easy to use*, making it ideal
 Calculator/ 
 │ 
 ├── index.html   
-→ HTML structure of the calculator 
-  ├── style.css    
-→ Styling and layout 
-  ├── script.js    
-→ JavaScript logic and functionality 
-  └── README.md   
-→ Project documentation
+  → HTML structure of the calculator 
+
+├── style.css    
+  → Styling and layout 
+  
+├── script.js    
+  → JavaScript logic and functionality 
+  
+└── README.md   
+  → Project documentation
 
 ---
 
@@ -59,14 +62,14 @@ git clone https://github.com/VudayagiriNavya/Calculator.git
 
 ## 🌐 Live Demo
 
-[Click here to see Live Demo](https://NavyaVudayagiri.github.io/Web-Calculator/)
+[Click here to see Live Demo](https://VudayagiriNavya.github.io/Web-Calculator/)
 
 ---
 
 ## 🚀 Author
 
 *Navya Vudayagiri*  
-- GitHub: [Navya's GitHub Profile](https://github.com/NavyaVudayagiri)
+- GitHub: [Navya's GitHub Profile](https://github.com/VudayagiriNavya)
 
 ---
 
