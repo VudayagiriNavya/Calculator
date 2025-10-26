@@ -13,7 +13,7 @@ This calculator can perform basic arithmetic operations:
 
 ## 🔹 Preview
 
-![Calculator Preview](calculator.png)
+![Calculator Preview](file:///C:/Users/vuday/OneDrive/Desktop/calculator/index.html)
 
 ---
 
