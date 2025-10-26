@@ -13,7 +13,7 @@ This calculator can perform basic arithmetic operations:
 
 ## 🔹 Preview
 
-![Calculator Preview](https://via.placeholder.com/300x400?text=Calculator+Preview)
+![Calculator Preview](calculator.png)
 
 ---
 
