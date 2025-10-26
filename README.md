@@ -1,57 +1,98 @@
 # Navya's Web Calculator 🧮
 
-A simple *Calculator* built using *HTML, CSS, and JavaScript*.  
-This calculator can perform basic arithmetic operations:  
-- Addition (+)  
-- Subtraction (−)  
-- Multiplication (×)  
-- Division (÷)  
-- Percentage (%)  
-- Decimal (.)  
+A *simple and elegant web-based calculator* built using *HTML, CSS, and JavaScript*.  
+This project demonstrates the power of front-end development for creating interactive applications that run directly in a web browser.
 
 ---
 
-Live Demo :
-[Navya's Calculator]
-https://vudayagirinavya.github.io/Calculator/
+## 🔹 Overview
 
----
-
-Clone :
-```bash
-[git clone]
-https://github.com/VudayagiriNavya/Calculator.git
-```
+This calculator allows users to perform *basic arithmetic operations* in a clean, user-friendly interface.  
+It is designed to be *lightweight, responsive, and easy to use*, making it ideal for learning, practice, or integrating into other web projects.
 
 ---
 
 ## 🛠 Features
 
-- Responsive design  
-- Works directly in any web browser  
-- Easy-to-use interface  
-- Clear (C) and delete (⌫) buttons  
+- Addition, Subtraction, Multiplication, Division  
+- Percentage (%) and Decimal (.) support  
+- Clear (C) and Backspace (⌫) buttons  
+- Responsive layout and interactive buttons  
 
 ---
 
-## 💻 How to Run
+## 📂 Project Structure
 
-1. Clone or download the repository.  
-2. Open the index.html file in your web browser.  
-3. Start using the calculator!  
+Web-Calculator/ │ ├── index.html   → HTML structure of the calculator ├── style.css    → Styling and layout ├── script.js    → JavaScript logic and functionality └── README.md    → Project documentation
 
 ---
 
-## 📂 Files Included
+## 📥 Clone the Project
 
-- index.html → HTML structure  
-- style.css → Styles and layout  
-- script.js → JavaScript functionality  
+bash
+git clone https://github.com/VudayagiriNavya/Calculator.git
+
 
 ---
 
-## 🚀 Author
+🌐 Live Demo
 
-*Navya Vudayagiri*  
-- Passionate coder.  
-- GitHub: [VudayagiriNavya](https://github.com/VudayagiriNavya)
+Click here to see Live Demo
+
+> Click the link above to try the calculator directly in your browser.
+
+
+
+
+---
+
+🎯 How to Run Locally
+
+1. Clone the repository using the command above.
+
+
+2. Open the project folder.
+
+
+3. Double-click index.html to run the calculator in your browser.
+
+
+
+
+---
+
+🌟 Future Improvements
+
+Add scientific functions (square root, power, trigonometry)
+
+Dark mode
+
+Keyboard input support
+
+Mobile-friendly layout
+
+
+
+---
+
+🚀 Author
+
+Navya Vudayagiri
+
+Passionate about coding and front-end development
+
+GitHub: VudayagiriNavya
+
+
+---
+
+
+
+
+
+
+---
+
+If you want, I can also show you how to include a real screenshot of your calculator so your README looks visually appealing and professional.
+
+Do you want me to do that next?
