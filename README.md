@@ -13,7 +13,7 @@ This calculator can perform basic arithmetic operations:
 
 ## 🔹 Preview
 
-![Calculator Preview](file:///C:/Users/vuday/OneDrive/Desktop/calculator/index.html)
+![Calculator Preview](https://github.com/VudayagiriNavya/Calculator.git)
 
 ---
 
