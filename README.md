@@ -13,7 +13,7 @@ This calculator can perform basic arithmetic operations:
 
 Live Demo :
 [Navya's Calculator]
-(https://vudayagirinavya.github.io/Calculator/)
+https://vudayagirinavya.github.io/Calculator/
 
 ---
 
