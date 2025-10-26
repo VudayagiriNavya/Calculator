@@ -25,6 +25,7 @@ It is designed to be *lightweight, responsive, and easy to use*, making it ideal
 
 Calculator/ 
 │ 
+
 ├── index.html   
   → HTML structure of the calculator 
 
