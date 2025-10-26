@@ -62,7 +62,7 @@ git clone https://github.com/VudayagiriNavya/Calculator.git
 
 ## 🌐 Live Demo
 
-[Click here to see Live Demo](https://VudayagiriNavya.github.io/calculator/)
+[Click here to see Live Demo](https://vudayagirinavya.github.io/Calculator/)
 
 ---
 
