@@ -11,9 +11,15 @@ This calculator can perform basic arithmetic operations:
 
 ---
 
+Live Demo :
+[Navya's Calculator]
+(https://vudayagirinavya.github.io/Calculator/)
+
+---
+
+Clone :
 ```bash
-clone repository:
-git clone
+[git clone]
 https://github.com/VudayagiriNavya/Calculator.git
 ```
 
